@@ -1,0 +1,8 @@
+{
+  "name": "Apy - Stealth Web3 Payments",
+  "description": "Minimalist glassmorphic Web3 payment platform with stealth addresses, instant crypto checkout, and non-custodial merchant treasury",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
